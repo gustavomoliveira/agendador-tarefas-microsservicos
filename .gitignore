@@ -1,0 +1,9 @@
+# IntelliJ
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Segredos e variáveis de ambiente
+.env
